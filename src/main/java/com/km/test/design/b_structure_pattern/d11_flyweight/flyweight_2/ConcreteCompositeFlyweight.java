@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class ConcreteCompositeFlyweight implements Flyweight{
 
-    private List<Flyweight> flyweightList = new ArrayList<Flyweight>();
+    private final List<Flyweight> flyweightList = new ArrayList<Flyweight>();
 
     public void add(Flyweight flyweight){
         flyweightList.add(flyweight);

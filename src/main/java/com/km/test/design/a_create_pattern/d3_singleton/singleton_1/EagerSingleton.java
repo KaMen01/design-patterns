@@ -7,7 +7,7 @@ package com.km.test.design.a_create_pattern.d3_singleton.singleton_1;
  * @Date: 2020/7/2 15:17
  */
 public class EagerSingleton {
-    private static  final EagerSingleton EAGER_SINGLETON = new EagerSingleton();
+    private  final static  EagerSingleton EAGER_SINGLETON = new EagerSingleton();
 
     private EagerSingleton() {
     }

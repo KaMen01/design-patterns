@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.LinkedList;
 
-/**
+/** 失败的连接池,以后自己像完善的时候再完善吧
  * @author coming
  * @date 2020/8/14 17:22
  */

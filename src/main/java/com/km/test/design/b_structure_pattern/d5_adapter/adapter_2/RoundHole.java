@@ -1,6 +1,6 @@
 package com.km.test.design.b_structure_pattern.d5_adapter.adapter_2;
 
-/**
+/** 圆孔
  * @author: coming
  * @date: 2020/7/30 16:05
  */
