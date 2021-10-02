@@ -13,7 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27844bf4-ce5a-4114-9e2e-f72e0875eb57" name="Default Changelist" comment="测试提交">
+    <list default="true" id="27844bf4-ce5a-4114-9e2e-f72e0875eb57" name="Default Changelist" comment="测试提">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -285,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633174850043</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="测试提">
+      <created>1633174882738</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633174882738</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +322,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
+    <MESSAGE value="测试提" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提" />
   </component>
   <component name="WindowStateProjectService">
     <state x="504" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632234347985">
@@ -359,10 +367,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="170" y="39" key="SettingsEditor/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1633174027215" />
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1633174549693">
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1633174886096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1633174549693" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1633174886096" />
     <state x="527" y="149" key="VcsDiffUtil.ChangesDialog" timestamp="1633173832896">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
