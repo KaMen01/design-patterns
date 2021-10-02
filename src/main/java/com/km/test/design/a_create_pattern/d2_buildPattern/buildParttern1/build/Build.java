@@ -12,6 +12,4 @@ public interface Build {
     void assembleMouse();
     void assembleKeyboard();
     Computer getComputer();
-
-
 }
