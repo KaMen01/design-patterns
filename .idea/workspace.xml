@@ -13,32 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27844bf4-ce5a-4114-9e2e-f72e0875eb57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/a_create_pattern/d2_buildPattern/buildParttern1/建造者模式" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/a_static_proxy/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/a_static_proxy/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/a_static_proxy/UserModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/a_static_proxy/UserModelAPi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/b_dynamic_proxy_jdk/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/b_dynamic_proxy_jdk/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/b_dynamic_proxy_jdk/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/c_dynamic_proxy_cglib/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/c_dynamic_proxy_cglib/MySubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_3/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_3/GEEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_3/PWEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/c_behavior_pattern/d21_template/TemplateMethod.java" afterDir="false" />
+    <list default="true" id="27844bf4-ce5a-4114-9e2e-f72e0875eb57" name="Default Changelist" comment="测试提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/a_create_pattern/d3_singleton/singleton_1/EagerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/a_create_pattern/d3_singleton/singleton_1/EagerSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/a_static_proxy/ConnetionPoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d10_proxy/proxy_2/a_static_proxy/ConnetionPoor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_2/ConcreteCompositeFlyweight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_2/ConcreteCompositeFlyweight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_2/ConcreteFlyweight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_2/ConcreteFlyweight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_2/FlyweightFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/flyweight_2/FlyweightFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/享元模式" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d11_flyweight/享元模式" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d5_adapter/adapter_2/RoundHole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d5_adapter/adapter_2/RoundHole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d7_composite/composite_2/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/b_structure_pattern/d7_composite/composite_2/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/km/test/design/a_create_pattern/d2_buildPattern/buildParttern1/build/Build.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/km/test/design/a_create_pattern/d2_buildPattern/buildParttern1/build/Build.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +73,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -274,6 +251,14 @@
       <workItem from="1598489188819" duration="3418000" />
       <workItem from="1599025366792" duration="8541000" />
     </task>
+    <task id="LOCAL-00001" summary="测试提交">
+      <created>1633173330219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633173330219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +277,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="504" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632234347985">
@@ -324,6 +310,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631626934815" />
+    <state x="170" y="39" key="SettingsEditor" timestamp="1633173577692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="170" y="39" key="SettingsEditor/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1633173577692" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1633173364534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1633173364534" />
     <state x="178" y="78" key="new project wizard" timestamp="1631971354612">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
